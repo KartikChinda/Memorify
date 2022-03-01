@@ -1,1 +1,3 @@
 # Memorify
+
+![Screenshot](memorifyMain.jpg)
