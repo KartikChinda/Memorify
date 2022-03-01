@@ -15,7 +15,7 @@ app.use(cors());
 app.use('/posts', postRoutes);
 
 // using mongoDB
-const ConnURL = 'mongodb+srv://kartik11:1517sec4@cluster0.zkeb3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+const ConnURL = 'enter your own URL here, this stuff aint free. I mean it is, but you get it'
 
 const PORT = process.env.PORT|| 5000;
 
